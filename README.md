@@ -1,16 +1,14 @@
-## Hi there 👋
+# TANDEMLOOP Screening Test
 
-<!--
-**Arman-Mia/Arman-Mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Candidate Name: ARMAN MIA  
+Programming Language: C++
 
-Here are some ideas to get you started:
+## Description
+This repository contains solutions for the TANDEMLOOP First Screening Test.
+Each problem is solved using basic C++ concepts without external libraries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Files
+- Problem-1.cpp : Calculator using class
+- Problem-2.cpp : Odd number series generation
+- Problem-3.cpp : Conditional odd number series
+- Problem-4.cpp : Count of multiples using array
